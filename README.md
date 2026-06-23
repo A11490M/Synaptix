@@ -103,7 +103,7 @@ Synaptix was born from a simple frustration — students spend enormous time hun
 ### Option 2 — Direct APK Download
 
 1. Go to [**Releases**](https://github.com/A11490M/A11490M.github.io/releases/latest)
-2. Download `StudyHub.apk`
+2. Download `Synaptix.apk`
 3. Open the APK on your Android device
 4. Allow **"Install from unknown sources"** if prompted
 5. Install and enjoy! 🎉
